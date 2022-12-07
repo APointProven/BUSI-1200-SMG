@@ -1,4 +1,4 @@
-# BUSI 1200 SMG Final Form C Auto-Completer
+# ECU BUSI 1200 SMG Final Form C Auto-Completer
 ## Introduction
 
 If you found this, hey, you're probably like me and like to find the easiest way out of things. Well I have the solution for you >:).<br><br>
