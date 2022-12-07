@@ -21,7 +21,7 @@ In the attached Google Sheets document, the stock market game is set up to autom
 
 
 
-Once you complete these three steps the Google Sheet will auto-complete for you. 
+Once you complete these three steps the Google Sheet will auto-complete for you. >:)
 
 **Example:**
 ![image](https://user-images.githubusercontent.com/103347950/206133073-88dbc06d-d80c-45f5-9652-a9aaf4995906.png)
